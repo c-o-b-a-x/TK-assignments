@@ -60,4 +60,8 @@ tk.Radiobutton(window, text="Vinyl", variable=vote, value="Vinyl", font=base_fon
 btn = tk.Button(window, text="Submit", command=show_message, bg=back, font=base_font)
 btn.pack(pady=20)
 
+
+
+
+
 window.mainloop()
